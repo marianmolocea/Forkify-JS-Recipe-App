@@ -23,7 +23,7 @@
     "axios": "^0.19.2",
     "babel-polyfill": "^6.26.0",
     "fracty": "^1.0.9",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nodemon": "^2.0.2",
     "uniqid": "^5.2.0"
   }
